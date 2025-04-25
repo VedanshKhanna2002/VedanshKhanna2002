@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedanshKhanna2002
-- 👀 I’m interested in Web-DEV and Competetive Programing
-- 🌱 I’m currently learning css and javascript
+- 👀 I’m interested in Mobile Application Development and Competetive Programing
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me https://www.linkedin.com/in/vedansh-khanna-0791b0225/
 
 <!---
